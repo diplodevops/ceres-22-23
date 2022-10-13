@@ -6,6 +6,10 @@
 
 
 ## Yo en la web 🌎:
-- Mi linkedin <a href="https://www.linkedin.com/in/oriverhu/">linkedin</a>💼
+- Mi linkedin <a href="https://www.linkedin.com/in/oriverhu/">Linkedin</a>💼
 - Mi Github <a href="https://github.com/oriverhu">Github</a>
-- Otro: <a href="https://oriverhu.herokuapp.com/"> My portfolio</a>
+- Otro: <a href="https://oriverhu.herokuapp.com/">Portfolio</a>
+
+
+## :)
+<img align='center' src='./public/github-contribution-grid-snake.gif' width='900"'>
