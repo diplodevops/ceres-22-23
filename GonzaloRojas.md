@@ -1,8 +1,8 @@
 # Hola, Yo soy Gonzalo Rojas  👋👨‍💻👩‍💻
 
-*Empresa:*
-*Rol:*
-*Actvidades principales:*
+*Empresa: Sodimac*
+*Rol: DevOps Engineer*
+*Actvidades principales: Crear/mantener pipelines de CI/CD para clusters de Kubernetes en GCP y disponibilidad de los servicios*
 
 
 ## Yo en la web 🌎:
