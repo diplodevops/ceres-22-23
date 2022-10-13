@@ -6,6 +6,6 @@
 
 
 ## Yo en la web 🌎:
-- Mi linkedin <a href="<>">linkedin</a>💼
-- Mi Github <a href="https://github.com/diplodevops/ceres-22-23.git">Github</a>
+- Mi linkedin <a href="https://www.linkedin.com/in/bryan-arancibia-layana-7b38aaa9/">linkedin</a>💼
+- Mi Github <a href="https://github.com/Bfal10">Github</a>
 - Otro: <a href="<>"> XX</a>
