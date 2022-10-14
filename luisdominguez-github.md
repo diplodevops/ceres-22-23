@@ -1,8 +1,8 @@
 # Hola, Yo soy <Luis Dominguez>  👋👨‍💻
 
-*Empresa: Aligare*
+*Empresa:* Aligare
 *Rol:* Arquitecto
-*Actvidades principales:* Diseño y desarrollo de Productos
+*Actividades principales:* Diseño y desarrollo de Productos
 
 
 ## Yo en la web 🌎:
