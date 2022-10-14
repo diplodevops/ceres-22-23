@@ -1,4 +1,4 @@
-# Hola, Yo soy <Marco Michea>  👋👨‍💻👩‍💻
+# Hola, Yo soy Marco Michea  👋👨‍💻👩‍💻
 
 *Empresa: AI-WARE SPA*
 *Rol: Full Stack Developer*
