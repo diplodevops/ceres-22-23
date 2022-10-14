@@ -1,8 +1,8 @@
-# Hola, Yo soy Orianna Núñez  👋👨‍💻👩‍💻
+# Hola, Yo soy Orianna Núñez 🚀👋
 <img align='center' src='./public/github-contribution-grid-snake.gif' width='900"'>
 
 
-## Yo en el work:
+## Yo en el work 👩‍💻:
 *Empresa: ACHS*
 *Rol: Devops:*
 *Actividades principales: Prevención de riesgos y prestaciones de salud:*
