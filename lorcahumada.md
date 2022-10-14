@@ -1,4 +1,4 @@
-# Hola, Yo soy <Kevin Lorca Ahumada>  👋👨‍💻👩‍💻
+# Hola, Yo soy Kevin Lorca Ahumada  👋👨‍💻👩‍💻
 
 *Empresa: Inovabiz
 *Rol: Ingeniero DevOps
