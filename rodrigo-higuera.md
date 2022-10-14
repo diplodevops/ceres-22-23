@@ -1,10 +1,10 @@
 # Hola, Yo soy Rodrigo G. Higuera M.  👋👨‍💻👩‍💻
 
 *Empresa:* Mercado Libre
-*Rol:* Software TEchnical Leader
+*Rol:* Software Technical Leader
 *Actvidades principales:*
 
-▪ Guiar a los equipos en el proceso de diseño de las soluciones, así como influir en el desarrollo de una arquitectura evolutiva y emergente para el ecosistema digital de Yapo.cl. 
+▪ Guiar a los equipos en el proceso de diseño de las soluciones, así como influir en el desarrollo de una arquitectura evolutiva y emergente para el ecosistema digital de Mercado Libre
 ▪ Liderar las decisiones técnicas de los desarrollos del equipo, y verificar qué se cumplan los DoR y DoD. 
 ▪ Referente de mejores prácticas y estándares de desarrollo, así como participar activamente en la entrega continua de los productos del dominio.
 ▪ Resolver problemas complejos de arquitectura y negocio, enfocado en conseguir una solución simple y optimizada.
