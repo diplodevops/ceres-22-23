@@ -8,7 +8,7 @@
 | Nombre | Apellido | Usuario Git |
 |--------|----------|-------------|
 |Roger|Reyes  Miranda      |tundervirld|
-
+|Juan|Perez        |jperezdev|
 
 
 
