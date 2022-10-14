@@ -1,8 +1,8 @@
-# Hola, Yo soy <Daniel Morales Letelier>  👋👨‍💻👩‍💻
+# Hola, Yo soy Daniel Morales Letelier  👋👨‍💻👩‍💻
 
-*Empresa: Tecnova*
-*Rol: Arquitecto*
-*Actvidades principales: arquitectura*
+* Empresa: Tecnova
+* Rol: Arquitecto
+* Actvidades principales: arquitectura
 
 
 ## Yo en la web 🌎:
