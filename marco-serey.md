@@ -1,8 +1,8 @@
-# Hola, Yo soy <Marco Serey>  👋👨‍💻👩‍💻
+# Hola, Yo soy Marco Serey  👋👨‍💻👩‍💻
 
-*Empresa: Banco de Chile
-*Rol: SRE
-*Actvidades principales: Estabilidad ambiente productivo
+- Empresa: Banco de Chile
+- Rol: SRE
+- Actvidades principales: Estabilidad ambiente productivo
 
 
 ## Yo en la web 🌎:
