@@ -4,6 +4,10 @@
 * Rol: Arquitecto
 * Actvidades principales: arquitectura
 
+| Nombre            | Apellido    | Usuario Git   |
+|-------------------|-------------|---------------|
+| Daniel            | Morales L   | danmoralesletelier |
+
 
 ## Yo en la web 🌎:
 - Mi linkedin <a href="<>">https://www.linkedin.com/in/danielmorales/</a>💼
