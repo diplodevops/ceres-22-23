@@ -1,4 +1,4 @@
-# Hola, Yo soy Nicolás Stuardo  👋👨‍💻👩‍💻
+# Hola, Yo soy Nicolás Stuardo  👋👨‍💻
 
 *Empresa: Magnet S.P.A.*
 
@@ -8,5 +8,5 @@
 
 
 ## Yo en la web 🌎:
-- Mi linkedin <a href="https://www.linkedin.com/in/nstuardodiaz">nstuardodiaz</a>💼
+- Mi linkedin <a href="https://www.linkedin.com/in/nstuardodiaz">nstuardodiaz</a>
 - Mi Github <a href="https://github.com/nstuardod">nstuardod</a>
