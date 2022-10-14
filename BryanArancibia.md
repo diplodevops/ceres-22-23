@@ -1,7 +1,7 @@
 # Hola, Yo soy Bryan Arancibia  👋👨‍💻👩‍💻
 
-*Empresa: Globant *
-*Rol: Sre o cloud ingenier en equifax  *
+*Empresa: Globant *\
+*Rol: Sre o cloud ingenier en equifax  *\
 *Actvidades principales: control y gestion de procesos de cicd e infraestructura en AWS y GCP*
 
 
