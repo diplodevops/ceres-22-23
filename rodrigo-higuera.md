@@ -11,6 +11,7 @@
 ▪ Participar activamente en el proceso de diseño, implementación y code reviews del equipo, asegurándose de proveer feedback constante al equipo en todas las instancias. 
 ▪ Conocer y custodiar la arquitectura de los productos en detalle y decidir sobre los trade-off necesarios para encontrar el balance entre los objetivos de corto y largo plazo de la organización. 
 ▪ Liderar las iniciativas que buscan potenciar las mejores prácticas de ingeniería, calidad y excelencia operacional.
+▪ New Line
 
 
 ## Yo en la web 🌎:
