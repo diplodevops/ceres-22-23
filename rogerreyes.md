@@ -5,6 +5,13 @@
 *Actvidades principales: Guiar a entender*
 
 
+| Nombre | Apellido | Usuario Git |
+|--------|----------|-------------|
+|Roger|Reyes  Miranda      |tundervirld|
+
+
+
+
 ## Yo en la web 🌎:
 - Mi linkedin <a href="<>">linkedin</a>💼
 - Mi Github <a href="<>">Github</a>
