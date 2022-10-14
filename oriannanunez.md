@@ -4,8 +4,8 @@
 
 ## Yo en el work 👩‍💻:
 *Empresa: ACHS*
-*Rol: Devops:*
-*Actividades principales: Prevención de riesgos y prestaciones de salud:*
+*Rol: Devops*
+*Actividades principales: Automatización de procesos, creación de infraestructuras con terraform, mantención de clústeres Kubernetes, creación y control de pipelines de despliegue de aplicaciones, definición de procesos para la gestión de proyectos.*
 
 
 ## Yo en la web 🌎:
