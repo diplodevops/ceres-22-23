@@ -8,4 +8,4 @@
 ## Yo en la web 🌎:
 - Mi linkedin <a href="https://www.linkedin.com/in/diego-bustamantea/">linkedin</a>💼
 - Mi Github <a href="https://github.com/krostyle">Github</a>
-- Otro: <a href="<>"></a>
+- Otro: <a href="<>"> No hay </a>
