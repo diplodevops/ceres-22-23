@@ -1,5 +1,4 @@
-# Hola, Yo soy <Jhonatan Ortiz>  👋👨‍💻👩‍💻
-
+# Hola, Yo soy Jhonatan Ortiz  👋👨‍💻👩‍💻
 *Empresa: Falabella *
 *Rol: DevOps Engineer*
 *Actvidades principales: Apoyo a equipos de desarrollo para desplegar el software desarrollado en diferentes celulas, mejoras en pipelines de despliegue y mantentciones de infra  via IaC*
