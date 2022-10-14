@@ -3,8 +3,8 @@
 
 
 ## Yo en el work 👩‍💻:
-*Empresa: ACHS*
-*Rol: Devops*
+*Empresa: ACHS*<br>
+*Rol: Devops*<br>
 *Actividades principales: Automatización de procesos, creación de infraestructuras con terraform, mantención de clústeres Kubernetes, creación y control de pipelines de despliegue de aplicaciones, definición de procesos para la gestión de proyectos.*
 
 
