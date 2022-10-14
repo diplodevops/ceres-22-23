@@ -4,7 +4,7 @@
 
 *Rol: Desarrollador Backend*
 
-*Actvidades principales: Diseñar e implementar funcionalidades de Backend y APIs con Python, Django y SQL. Apoyo al área DevOps.*
+*Actvidades principales: Diseñar e implementar funcionalidades de Backend y APIs con Python, Django y PostgreSQL. También apoyo en asuntos DevOps según disponibilidad.*
 
 
 ## Yo en la web 🌎:
