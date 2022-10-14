@@ -1,4 +1,4 @@
-# Hola, Yo soy <MAuricio Ulloa - Alumno>  👋👨‍💻👩‍💻
+# Hola, Yo soy <Mauricio Ulloa - Alumno>  👋👨‍💻👩‍💻
 
 *Empresa:AndesDev
 *Rol:Ingeniero de Sistemas
