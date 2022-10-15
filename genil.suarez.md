@@ -1,6 +1,6 @@
 # Hola, Yo soy <Nombre Genil Suarez>  👋👨‍💻👩‍💻
 *Empresa:Transbank*
-*Rol:Arquitecto Cloud*
+*Rol:Arquitecto/Lider Cloud*
 *Actvidades principales:*
 
 ## Yo en la web 🌎:
