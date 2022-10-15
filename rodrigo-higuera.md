@@ -14,7 +14,7 @@
 
 
 <p>
-## Yo en la web 🌎:
-- Mi linkedin <a href="https://www.linkedin.com/in/rodrigoghm/">linkedin</a>💼
-- Mi Github <a href="https://github.com/rodrigoghm">Github</a>
+<h2> Yo en la web 🌎: </h2>
+- Mi linkedin <a href="https://www.linkedin.com/in/rodrigoghm/">linkedin</a><br />
+- Mi Github <a href="https://github.com/rodrigoghm">Github</a><br />
 </p>
