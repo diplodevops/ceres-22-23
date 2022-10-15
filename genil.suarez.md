@@ -1,9 +1,7 @@
-# Hola, Yo soy <Nombre Apellido Alumno>  👋👨‍💻👩‍💻
-
+# Hola, Yo soy <Nombre Genil Suarez>  👋👨‍💻👩‍💻
 *Empresa:Transbank*
 *Rol:Arquitecto Cloud*
 *Actvidades principales:*
-
 
 ## Yo en la web 🌎:
 - Mi linkedin <a href="<>">https://www.linkedin.com/in/genil-alejandro-suarez/</a>💼
