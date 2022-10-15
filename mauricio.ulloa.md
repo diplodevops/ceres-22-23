@@ -7,5 +7,5 @@
 - Actvidades principales: Plataforma e Infraestructura
 
 ## Yo en la web 🌎:
-- Mi linkedin <a href="<https://www.linkedin.com/in/mauricioulloaarias/>">linkedin</a>💼
-- Mi Github <a href="<https://github.com/Malinkrop>">Github</a>
+- Mi linkedin <a href="https://www.linkedin.com/in/mauricioulloaarias/">linkedin</a>💼
+- Mi Github <a href="https://github.com/Malinkrop">Github</a>
